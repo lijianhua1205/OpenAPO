@@ -1,5 +1,5 @@
-# FreeAPO
-FreeAPO is a free APO（Advanced Planning and Optimizer） product ， provides more features than SAP APO
+# OpenAPO
+OpenAPO is a free APO（Advanced Planning and Optimizer） product ， provides more features than SAP APO
 
 Including the following software:
 
