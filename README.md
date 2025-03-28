@@ -12,7 +12,7 @@ http://www.isuperaps.com/vrp.zip
 3. Advanced Planning and Scheduling software free version(aps,size 32MB )
 http://www.isuperaps.com/isuperaps620free.zip
 
-4. cut optimization software free version(cut,size 9MB )
+4. 2d cutting stock optimization software free version(cut,size 9MB )
 http://www.isuperaps.com/cut.zip
 
 5. supply chain network planning and design software open source free version(snp,size 12MB )
