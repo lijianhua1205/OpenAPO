@@ -34,6 +34,8 @@ http://www.isuperaps.com/solver.zip
 ![Image](apo008.png)
 ![Image](apo009.png)
 ![Image](apo010.png)
+![Image](apo011.png)
+![Image](apo012.png)
 
 
 
