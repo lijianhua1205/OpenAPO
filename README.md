@@ -18,7 +18,7 @@ http://www.isuperaps.com/cut.zip
 5. supply chain network planning and design software open source free version(snp,size 12MB )
 http://www.isuperaps.com/snp.zip
 
-6. production scheduling simulation/factory manufacturing simulation software open source free version(sim,size 28MB )
+6. plant simulation/production logistics simulation software open source free version(sim,size 28MB )
 http://www.isuperaps.com/sim.zip
 
 7. Constraint Optimization Solver software open source free version(solver,size 12MB )
